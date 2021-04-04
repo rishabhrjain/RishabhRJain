@@ -1,3 +1,4 @@
+![GitHub Logo](/cover.JPG)
 ### Hello! I am Rishabh Jain 
 I am currently a master's student at ASU and currently work as a Data Science Research Aide at Edplus, ASU. 
 I am currently building predictive models to identify at-risk students in undergrad courses much before the course ends. This helps the instructors to target specific students and help students to get required help in order to succeed in the course. A research paper on this has been submitted to Artificial Intelligence in Education (AIED) 2021. 
